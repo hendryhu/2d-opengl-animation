@@ -129,7 +129,7 @@ void ofApp::draw() {
 		ofSetBackgroundColor(0);
 		ofSetColor(255);
 		font.drawString("Hendry Hu", 300, 300);
-		font.drawString("101263863", 300, 350);
+		font.drawString("A short animation featuring some shapes.", 300, 350);
 		font.drawString(ofToString(c, 2), 10, 30);
 		return;
 	}
